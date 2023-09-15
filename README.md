@@ -3,7 +3,7 @@
 
 ❓ ***Let me know on telegram if you guys want this project to be deployed with Docker and Kubernetes***
 
-<img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="900" height="300" />
+<img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="600" height="300" />
 <p> This is one of the project of the project mmade by my teams.</p>
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
