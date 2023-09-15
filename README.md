@@ -25,7 +25,7 @@
 <ul>
 <li><p><b>Kernal for Malaria model :</b>https://www.kaggle.com/shobhit18th/malaria-cell</p></li>
 
-<li><p><b>Kernal for Pneumonia model :</b>https://www.kaggle.com/shobhit18th/keras-nn-x-ray-predict-pneumonia-86-54</p></li>
+<li><p><b>Kernal for Pneumonia model :</b>https://www.kaggle.com/code/rajaryan13092002/keras-nn-x-ray-predict-pneumonia-83-97/notebook</p></li>
 <hr>
 </ul>
 
